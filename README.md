@@ -1,19 +1,58 @@
-👋 Olá
-Sou Laura Grassi, uma desenvolvedora de software apaixonada e entusiasta de tecnologia. Com mais de 8 anos de experiência na área, tive a oportunidade de trabalhar em diversos projetos empolgantes e explorar diferentes tecnologias.
 
-“Faça ou não faça. Não existe ‘tentar’ — Yoda
 
-🚀 Especialização
-Apaixonado por criar experiências de usuário interativas e intuitivas, sou especialista em desenvolvimento web front-end, combinando frameworks modernos com as melhores práticas de design. Com quase 7 anos dedicados ao aprimoramento das minhas habilidades em tecnologias front-end, liderei equipes, elaborei diretrizes de sistemas e mantive os mais altos padrões de desempenho web e SEO.
 
-Ao longo da minha trajetória profissional, honrei a oportunidade de atuar como Líder Técnico de Front-end, função na qual minha expertise técnica se uniu aos desafios da gestão de equipes. Além de criar interfaces de usuário de alta qualidade, assumi as responsabilidades de liderança, guiando minha equipe com supervisão estratégica e garantindo a execução eficiente dos projetos.
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-Além das minhas atividades profissionais, abracei o papel de "criador de conteúdo" na área da tecnologia. Minha abordagem é singular: busco oferecer uma perspectiva inovadora sobre tecnologia, combinando conhecimento com uma pitada de humor.
+---
+<div align="center">
+  
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Rafael Lana
+ 👩🏻‍💻 Sou uma desenvolvedora Front-End, criativa e apaixonada por tecnologia.<br>
+ ⚡ No segundo período de analise e desenvolvimento de sistemas<br>
+</div>
+<h1 align="center">Desenvolvedor Front-End</h1>
 
-Fora do ambiente profissional, cultivo uma paixão singular: criar "arte" usando exclusivamente CSS. Essa atividade não só aprimora minhas habilidades técnicas, como também me permite combinar programação e criatividade de uma forma única e cativante.
+-----------------------
+<div align="center">
+Apaixonado por transformar ideias em interfaces funcionais e visualmente atraentes, sou desenvolvedor Front-End com experiência prática em desenvolvimento de temas para e-commerce e integração com plataformas digitais. Minha jornada começou de forma autodidata, combinando cursos especializados com projetos reais, e ganhou um salto significativo durante meu estágio na DevRocket, onde coloquei a mão na massa em projetos reais que chegaram à produção.
 
-💻 Conjunto de tecnologias
-JavaScript TypeScript HTML5 CSS3 Reagir Vue.js Próximo JS NuxtJS SASS Menos MUI Componentes estilizados Vuetify Trêsjs Jira Noção Trello Carteiro Babel
+Ao longo da minha trajetória, tive a oportunidade de trabalhar diretamente com as plataformas Tray e Bagy, desenvolvendo temas completos do zero, realizando suporte técnico a lojistas e integrando APIs REST em soluções reais de e-commerce. Cada desafio enfrentado foi uma oportunidade de crescimento — tanto nas hard skills quanto nas soft skills.
 
-🌐 Redes sociais:
-Instagram LinkedIn TikTok Twitter
+Acredito que um bom desenvolvedor não é apenas aquele que escreve código limpo, mas aquele que entende o problema do usuário e entrega a melhor solução possível. Esse é o princípio que guia cada linha de código que escrevo.
+
+Fora do trabalho, dedico meu tempo a projetos pessoais, estudos contínuos e à construção do meu portfólio — porque tecnologia não é só profissão, é estilo de vida.
+</div>
+<div align="center">
+
+<div align="center">
+
+🌍 Marília-SP &nbsp;&nbsp;|&nbsp;&nbsp; 🖥️ [Portfolio](http://rafaellanads.github.io/Portfolio/home.html) &nbsp;&nbsp;|&nbsp;&nbsp; ✉️ [Email](mailto:rafael.lanads@outlook.com) &nbsp;&nbsp;|&nbsp;&nbsp; 🧠 Aprendendo React
+
+</div>
+
+</div>
+
+<p align="center">
+<a  href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
+</p>
+
+
+
+<div align="center"> 
+  <a href="https://instagram.com/lari.devcoding" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:larissaamca1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larissa-albuquerque-39133a239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+<!-- Parte inferior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
