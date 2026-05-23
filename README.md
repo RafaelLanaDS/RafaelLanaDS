@@ -8,7 +8,7 @@
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Rafael Lana
- 👩🏻‍💻 Sou uma desenvolvedora Front-End, criativa e apaixonada por tecnologia.<br>
+ 👩🏻‍💻 Sou uma desenvolvedor Front-End, criativo e apaixonado por tecnologia.<br>
  ⚡ No segundo período de analise e desenvolvimento de sistemas<br>
 </div>
 <h1 align="center">Desenvolvedor Front-End</h1>
