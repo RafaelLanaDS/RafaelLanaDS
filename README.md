@@ -1,19 +1,25 @@
+-----------------------
 
 
 
 <!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
-
----
 <div align="center">
-  
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Rafael Lana
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rafa+%F0%9F%91%8B;Front+End+Developer;JS+Frontend;Always+learning+new+things!" alt="Typing SVG" />
+
+</div>
+
+
+
+
+
+<div align="center">
  👩🏻‍💻 Sou uma desenvolvedor Front-End, criativo e apaixonado por tecnologia.<br>
  ⚡ No segundo período de analise e desenvolvimento de sistemas<br>
 </div>
 <h1 align="center">Desenvolvedor Front-End</h1>
 
------------------------
 <div align="center">
 Apaixonado por transformar ideias em interfaces funcionais e visualmente atraentes, sou desenvolvedor Front-End com experiência prática em desenvolvimento de temas para e-commerce e integração com plataformas digitais. Minha jornada começou de forma autodidata, combinando cursos especializados com projetos reais, e ganhou um salto significativo durante meu estágio na DevRocket, onde coloquei a mão na massa em projetos reais que chegaram à produção.
 
